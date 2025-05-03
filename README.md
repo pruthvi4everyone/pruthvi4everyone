@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Pruthvi Reddy Balapuram
 
 🎓 Master’s in Computer Science @ University of Central Florida  
-💻 Full Stack Developer | AI Enthusiast | Problem Solver  
+💻 Full Stack Developer 
 🌐 Portfolio: [pruthvi4everyone.github.io](https://pruthvi4everyone.github.io)  
-📫 Email: [pruthvireddybalapuram@gmail.com](mailto:pruthvireddybalapuram@gmail.com)
+📫 Email: [pruthvireddybalapuram@gmail.com](mailto:pruthvireads@gmail.com)
 
 ---
 
