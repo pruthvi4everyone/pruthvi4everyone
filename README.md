@@ -37,4 +37,4 @@ I'm passionate about building clean, efficient, and scalable software that solve
 ---
 
 Thanks for visiting!  
-🔗 Let's connect on [LinkedIn](https://linkedin.com/in/pruthvireddy)
+🔗 Let's connect on [LinkedIn](https://www.linkedin.com/in/pruthvi-reddy-balapuram-176441215/)
