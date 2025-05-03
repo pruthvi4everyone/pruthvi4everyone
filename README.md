@@ -1,16 +1,46 @@
-## Hi there 👋
+# 👋 Hi, I'm Pruthvi Reddy Balapuram
 
-<!--
-**pruthvi4everyone/pruthvi4everyone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Master’s in Computer Science @ University of Central Florida  
+💻 Full Stack Developer | AI Enthusiast | Problem Solver  
+🌐 Portfolio: [pruthvi4everyone.github.io](https://pruthvi4everyone.github.io)  
+📫 Email: [pruthvireddybalapuram@gmail.com](mailto:pruthvireddybalapuram@gmail.com)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I'm passionate about building clean, efficient, and scalable software that solves real-world problems. I enjoy working across the full stack, with strong interests in **Artificial Intelligence**, **Web Development**, and **System Design**.
+
+---
+
+## 🛠️ Skills & Tools
+
+**Languages:** Python, Java, C, JavaScript, SQL  
+**Frontend:** React.js, HTML, CSS, Tailwind  
+**Backend:** Node.js, Express.js, Spring Boot, Django  
+**Databases:** PostgreSQL, MongoDB  
+**DevOps:** GitHub Actions, Docker, AWS (EC2, S3)  
+
+---
+
+## 💼 Featured Projects
+
+- 🔹 **[Loan Approval Prediction Platform](https://github.com/pruthvi4everyone/loan-approval-platform)**  
+  Spring Boot APIs + React Frontend + AWS hosted ML
+
+- 🔹 **[Cyberbullying Detection Web App](https://github.com/pruthvi4everyone/cyberbullying-detector)**  
+  Django + NLP for toxicity classification
+
+- 🔹 **[Supermarket Management System](https://github.com/pruthvi4everyone/supermarket-management)**  
+  Full-stack dashboard with RBAC and CI/CD
+
+---
+
+## 📈 GitHub Stats
+
+![Pruthvi's GitHub stats](https://github-readme-stats.vercel.app/api?username=pruthvi4everyone&show_icons=true&theme=default)
+
+---
+
+Thanks for visiting!  
+🔗 Let's connect on [LinkedIn](https://linkedin.com/in/pruthvireddy)
