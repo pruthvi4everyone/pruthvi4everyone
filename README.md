@@ -41,7 +41,7 @@ Object-Oriented Programming, System Design, Distributed Systems, REST APIs, Agil
   <img src="https://img.icons8.com/color/48/spring-logo.png" alt="Spring Boot" />
   <img src="https://img.icons8.com/fluency/48/node-js.png" alt="Node.js" />
   <img src="https://img.icons8.com/color/48/python--v1.png" alt="Python" />
-  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/java.png" alt="Java" />
+  <img src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="Java" />
   <img src="https://img.icons8.com/color/48/mongodb.png" alt="MongoDB" />
   <img src="https://img.icons8.com/color/48/postgreesql.png" alt="PostgreSQL" />
   <img src="https://img.icons8.com/color/48/docker.png" alt="Docker" />
@@ -76,4 +76,4 @@ Object-Oriented Programming, System Design, Distributed Systems, REST APIs, Agil
 
 ---
 
-⭐️ Thanks for visiting! Feel free to explore my [portfolio](https://pruthvi4everyone.github.io) and connect on [LinkedIn](https://linkedin.com/in/pruthvireddy).
+⭐️ Thanks for visiting! Feel free to explore my [portfolio](https://pruthvi4everyone.github.io) and connect on [LinkedIn](https://www.linkedin.com/in/pruthvi-reddy-balapuram-176441215/).
