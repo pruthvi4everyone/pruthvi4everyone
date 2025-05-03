@@ -19,6 +19,25 @@ I'm passionate about building clean, efficient, and scalable software that solve
 
 ---
 
+## 📫 Let's Connect
+
+<p align="center">
+  <a href="mailto:pruthvireddybalapuram@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/pruthvireddy">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/pruthvi4everyone">
+    <img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://pruthvi4everyone.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-3DDC84?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
+
+---
+
 ## 🛠 Technical Skills
 
 **Languages:**  
