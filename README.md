@@ -22,10 +22,10 @@ I'm passionate about building clean, efficient, and scalable software that solve
 ## 📫 Let's Connect
 
 <p align="center">
-  <a href="mailto:pruthvireddybalapuram@gmail.com">
+  <a href="mailto:pruthvireads@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://www.linkedin.com/in/pruthvireddy">
+  <a href="https://www.linkedin.com/in/pruthvi-reddy-balapuram-176441215/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/pruthvi4everyone">
