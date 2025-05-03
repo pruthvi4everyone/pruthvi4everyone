@@ -1,4 +1,3 @@
----
 <h2 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=000000&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Pruthvi+Reddy+Balapuram;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
 </h2>
