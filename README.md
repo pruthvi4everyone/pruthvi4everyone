@@ -36,11 +36,5 @@ I'm passionate about building clean, efficient, and scalable software that solve
 
 ---
 
-## 📈 GitHub Stats
-
-![Pruthvi's GitHub stats](https://github-readme-stats.vercel.app/api?username=pruthvi4everyone&show_icons=true&theme=default)
-
----
-
 Thanks for visiting!  
 🔗 Let's connect on [LinkedIn](https://linkedin.com/in/pruthvireddy)
