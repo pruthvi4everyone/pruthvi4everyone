@@ -2,8 +2,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=000000&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Pruthvi+Reddy+Balapuram;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
 </h2>
 <p align="center">
-  ![Profile views](https://komarev.com/ghpvc/?username=pruthvi4everyone&color=blue)
+  <img src="https://komarev.com/ghpvc/?username=pruthvi4everyone&color=blue" alt="Profile views" />
 </p>
+
 ## 🎓 Education & Contact
 
 - 🎓 Master’s in Computer Science @ University of Central Florida  
