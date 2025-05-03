@@ -1,73 +1,70 @@
-<h1 align="center">Hi There! 👋</h1>
-
-<p align="center">
-  🚀 <strong>Exploring Opportunities in Software Engineering</strong> 🧑‍💻<br>
-  <em>💡 Driven to create scalable, innovative, and user-focused software solutions.</em>
-</p>
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=000000&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Pruthvi+Reddy+Balapuram;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
+</h2>
 
 ---
 
-## 🧑‍💼 About Me
-
-- 🎓 Master's in Computer Science at **UCF** | Expected Graduation: **May 2025**
-- 💼 Ex **Associate Software Engineer @ OpenText** | Expertise in REST APIs, scalable solutions, and cloud deployments
-- 💡 Passionate about **Full-Stack Development**, **Cloud Technologies**, and **Advanced Algorithms**
-- 👥 Experienced in leading development teams and delivering high-impact projects
-- 🔍 Driven to tackle challenges, innovate, and stay ahead with cutting-edge technologies
-- 🌟 Exploring opportunities to create meaningful contributions in dynamic teams
-
----
-
-## 🤝 Let's Connect
-
-<p align="center">
-  <a href="mailto:pruthvireddybalapuram@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://www.linkedin.com/in/pruthvireddy">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/pruthvi4everyone">
-    <img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://pruthvi4everyone.github.io">
-    <img src="https://img.shields.io/badge/Portfolio-3DDC84?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
-</p>
-
----
-
-## 🛠️ Technical Skills
+## 🛠 Technical Skills
 
 **Languages:**  
-Java, Python, JavaScript, PHP, C/C++, HTML, CSS, TypeScript  
+Java, Python, JavaScript, PHP, C/C++, HTML, CSS, TypeScript
 
-**Databases & OS:**  
-MySQL, PostgreSQL, MongoDB (NoSQL), Linux/Unix, Windows  
+**Database & OS:**  
+MySQL, MongoDB (NoSQL), PostgreSQL, Unix/Linux, Windows
 
-**Frameworks & Tools:**  
-React, Spring Boot, Node.js, Django, Git, Docker, AWS, Kubernetes, Selenium, Jira, Perforce  
+**Tools/Frameworks:**  
+React, Spring Boot, Node.js, Django, Git, AWS, Kubernetes, Selenium, Docker, Jira, Perforce
 
-**Core Concepts:**  
-Object-Oriented Programming, System Design, REST APIs, CI/CD, Distributed Systems, Version Control, Unit Testing
-
----
-
-## 📊 Technologies & Tools
+**Concepts:**  
+Object-Oriented Design, Agile, CI/CD, System Design, Distributed Systems, REST APIs, Unit Testing, Version Control
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML" />
+  <img src="https://img.icons8.com/color/48/javascript--v1.png" alt="JavaScript" />
+  <img src="https://img.icons8.com/color/48/css3.png" alt="CSS" />
+  <img src="https://img.icons8.com/fluency/48/react.png" alt="React" />
+  <img src="https://img.icons8.com/color/48/spring-logo.png" alt="Spring Boot" />
+  <img src="https://img.icons8.com/fluency/48/node-js.png" alt="Node.js" />
+  <img src="https://img.icons8.com/color/48/python--v1.png" alt="Python" />
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/java.png" alt="Java" />
+  <img src="https://img.icons8.com/color/48/mongodb.png" alt="MongoDB" />
+  <img src="https://img.icons8.com/color/48/postgreesql.png" alt="PostgreSQL" />
+  <img src="https://img.icons8.com/color/48/docker.png" alt="Docker" />
+  <img src="https://img.icons8.com/color/48/amazon-web-services.png" alt="AWS" />
 </p>
 
 ---
 
-⭐️ Thanks for visiting my profile! Feel free to explore my [portfolio](https://pruthvi4everyone.github.io) and repositories!
+## 🌟 Featured Projects
+
+### 🛒 Supermarket Management System  
+**Tech Stack:** Java, Spring Boot, React, PostgreSQL, AWS, GitHub Actions  
+**Highlights:**  
+• Designed and developed a full-stack application for a local supermarket using Java (Spring Boot) and React.js, supporting inventory tracking, customer orders, and staff login, reducing manual record-keeping by 60%.  
+• Modeled relational schemas with PostgreSQL, covering users, product catalog, stock levels, invoices, and order history.  
+• Implemented JWT-based access control via Spring Security, lowering access breaches by 40%.  
+• Deployed on AWS EC2 and configured GitHub Actions for CI/CD, ensuring smooth updates and zero downtime.  
+
+---
+
+### 🧾 Loan Approval Prediction Platform  
+**Tech Stack:** Java, Spring Boot, React, PostgreSQL  
+**Highlights:**  
+• Built a full-stack loan processing platform using financial data from Kaggle, simulating real-world loan eligibility systems.  
+• Developed rule-based approval logic in Spring Boot (income, credit score, employment, DTI), covering 93% of test cases.  
+• Designed normalized PostgreSQL schemas for applicant data and scoring rules, reducing query latency by 40% on filtered application searches.  
+• Created responsive React.js interfaces for application submission, decision feedback, and admin-level views.
+
+---
+
+### 💸 Personal Expense Tracker  
+**Tech Stack:** Python (Django), MongoDB, HTML, CSS  
+**Highlights:**  
+• Created a personal web application to record and monitor daily expenses with category-wise and date-wise tracking.  
+• Built Django views and forms for adding, editing, and filtering expenses, with basic user login functionality.  
+• Used MongoDB to store flexible, user-specific expense records with support for custom fields.  
+• Designed simple and responsive HTML, CSS interfaces to display summaries and spending patterns.
+
+---
+
+⭐️ Thanks for visiting! Feel free to explore my [portfolio](https://pruthvi4everyone.github.io) and connect on [LinkedIn](https://linkedin.com/in/pruthvireddy).
